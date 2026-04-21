@@ -1,71 +1,972 @@
--- // Protected by Monsy Obfuscator
-local Hf0XWtWXws9lT4=string.len("")
-local mGsgQyYc=bit32.bxor(0xAB,0xCD)
-local hIALvet6u=string.len("")
-local nTDHk1D16I=string.len("")
-do end
-if false then end
-local oMVowIlym1sofO={"f97bd205aec0e89aef7984b2df4df4a54318dac9b071fe9d7f5559f11449f539527cd475c4f1f18f2e0a5ea059bdf40f3dc983f8df9ff432fadba73ca46c1d3f9afaa92befa97c69d02d539d77cec8d2df63d747829fba872309a4a41023a92c4b339","c2c413c251a428c406d4169f0c9d2a353a05102245c41cd3f930269bc88e98c4d1a0f78f4239be773d2b9e8a9d02442479fcaadc5f45f389ab2caf7d292058a28363adfc42e516a6a9e7b5568e7a8a2c5e05376170363d8cb1143bcbb8df301040bc7","ea85b1a3dc29811935a24734dd56c262b6313afa910d2041947c624818bbc9416324e5c2bb5e40268f89d728283725bc0bfa330218b9ad44382f53acbc5105e4d0a0c2c0a73ce6ef74a6552b18cc6036be32e63ae3a3d75f723b452e78b38574a4a75","ff8e4859cda9cbb68204ff40b32bb8d0cbd861fbf2f361b49240e4e84413d3f9c47a885ea8327e992f9796cfca0a4bb7451a842b83bf0ae8f8638b2a969b26b17b15ad30d2839b0d6284376063d4df4f47ee3d785690ce73dbe777d73920def9a41c1","d2761844e20c945c4b5d2ad8250472e01f0277bb375f16f0d879ff058e12dc13cad5aba37b0c1e32b7b5ef2224fe9a41eb9e097fd434efee6fdc82b930b4662734e3a8387b0f8b7ed9cda2baaaa32bfea4f17d796be071cddff841fbc583d99","61e74f72559860094f6d98c4e8cabe6c0116c1ec831c6250888ec6afe51a044c23730ea7de066278ee9aedbf32846bebbc7cd285106cfe331ee79e67b3d159cd872641504d07adaafcc7ac1d5434c715d83a3f97096d8661023f1385fa89d6a7bc870","0e2a7ed695e76ea1d8c315cf7871d5fed867a078b9f2bf9263cc8c942331d2e034204c4ce2385891f440effde3cab87b636e3c869da8e9e5802a52dd952f6c53cc10d04f557c9705f30867b3b15740eced47c348b61ffc7a36f7e58de1f9a4063d67a","ef4342d843d99c1baf2ad9fa6ca8d29332210ba32735269210ee8bbfe8b1e38a4ec4faecc1ee6cd52c92b83215d11a28241ea7b3f66b3d94c94e1a4ec1e66edd416550c474bba2ba55fc227455f3cf3ae325b4cd620b3252f874242cd81649c8f7290","535a88f7f90191f0cbc2923a69bc0870fb2aead060945855a080ecb31eb685f97b0821d2b870f84ba67ed691f0cae9af4fc51a5074747b5d91854d9c381f19e7be6f85b9e5b3955747a5dd4a4bb737807f54e934db7c5c8087d4a3ee311ed7f50d045","54d35cc17cea6f1d387f5d3bc5518ebdff01cdcf801d191c4df0cffa57f663f7b0387995bca9eb04cf6ed3ff1542721a499f5a868c1ca21da7d468835bf86972ed5886fc9c1d40d7d1be8af11d409f59cad7e99ffc1b0a7c45e38f36b7908e4019b59","6bc1142edae03f6e08aa388755eb1af5c586c228e00e8d9c553aa020d7304727f8005bcc112dae70c8515cdf5571eb042f2822c89ca4c60710241c973637afdd43f5a55f242d27b89ea05b9705e7a95eae74cf8a167d5e46f7b5e9280633e4dfe9d06","bf5ac73f22ac69694d757dda7da600ada078aaad034a6fbd2191f0a2da1f16ccea49626f8768e6e1e231bc11ca55d1c5b8d5cdcd26a0ce00ea0f556507f49c2aa08fdc21e4253fae84d075aa86614bba041e3b78b2b0d962eb87775e718eab43096ec","448211bee6b50d817ca3c8822f33fbc3bd3031b3252a47aa9dea3696abbe60b1a4389b724d4b3dccd47be7477bfe502d338961f0d3fc8ec8e981f9f561b2f3c386ceef2c625e216a4feafa63bf8c98c0307be05ad789ff8fc0108a2bcf9c9c8f817cb","c8f9cebb855fd8cf3f71ff384a157686c30c43ac4d350aad4aa9a9b1d91904c31397583326172681f80fffe2f19bdc6853db5f70e21c8f37e47d89e77316ab62a0337869729c6532bf40edb1d6194f5a248548bd5ec9e3ca03911ac7d3ac92571c1e5","86b07847f45aac10d6143d8c30aa6dbd31a5c02862a2b3be24d2cb4b4a5463b1cc79cf848354880755f0e0b4ce431106c31b48b4a510bb3b3a2d26c409d807bf852fe84c21ddc636f7130391234366428d8f60245387105d0bcbff2bbbb3bc5e3fc80","350cf35386f491c3cc1d0fcfe38b691918d17e82f42c36e3210ba9d27f18270cb28e6bd1128c86db2083242ba69d5e48a6b509674b2145c402833a6d598e393cd1d5a81b8267d233efcab117cb4d6d8eed4d11040cea1e5b2b98ab633a56b4874a44c","6dc50721242850208f476e859a0d20f8c152d5ed4958f30e9c9e904769a05f53f71e5aa57d6f775f903e57d30cbd25b004a57ae7cbb8e7174c89f331260101ba52d206533593dca61430b3302647747ac2c8ab99d4d731b4666cba3cbc8eafd23898c","17e3671ed1646273366aff2980ebab7deff35c857b477913273ac863d101cfac3ffc0e6e9e02330687c99ed431db46ffd450d3ef018371ebd67826ba95d2bbd4c674c22279293fe3e8531b94e26e990905678861dc46f4e190f8810b17c0badaa2f07","241e8e0fe6762f80d25917e0c10d001404fb73e443ab8130bec634a0aaf2379b0d43e3ed4802d2c905764bcbcedb22ed278773a4e8f0b5370131b2d13618ebca50138059e23134dd08ea6ff635036e53ddc6abd3344c6e53f21009a1735228fe0e201","0199289cf38b272542907a15a5de2ce1de3f2f03e9e213b52d1aaddc18ba0662659ce69b26066a4f18893426221f5fa60abf8fdabb4a9f72b41587b5b63045687b930f488d4d746f9e4715b857f60fef89d5de7689c2a0d1e9bf5d0a1f6fd057513dc","bedc4aa49f16aae3f118dd55fd8191d853185a2c00e38e78f2c384ea8862cfaa0b2649e451a58a2912ee049f2b62d50a39c0aa191c0a667d4a0e441d2d95e3bd17f416facbf48c743180bc1a848ede0a590334b085afa2775e01506a03b6b9163a89f","722eaaf2f343d8715ad71b24af6d7d562555ee0e904d668737d6bd0042c68905b1bdac5edac1a8244cc9cd0dbe9a021d2b1e45b890491179191c53ccd8c672fb381b96fc014ef9029f869659f6fa74d33d8ed00fd10db982564bb4b44c6018acd5d26","93a1175e295b6318968c0618e0154159c81387a9bb00c8a4ab0a760eca2536702b148f9fa39a3e4bb9ece2d0fe36c8f8687499895009ccf315bc00b60579b3bb7300c98167accf719ca33acf8ed29107766342809d34223a49d40e86ec46ad59b940b","e86a30903a0147887ba18f5b6b140da7dafb55d273fe34b7046220cacdb9182f2a2a35051e9f7cff85ecb4fc48377ad5c71b25c076a789d35d0e0f5ee3f39f3dd768e16c3ed9778735e47a5ba4d295c86dfed5bd20e2dd4675eb16d0103d271cb0cac","d203fbad45de962a6a3003fe353f6d649b4adb77dd59fcca5535662b72a6e836837bc9a4477f64a4bf9ef567b92f56747fae9f7fd8b3803225e86b05bd304d517ebc3a18a4ff98af7464aec5afda5b930cea6be27c60390eb8c862cb3bc5b221dfe9f","045f22a14c22f804264ddd19cf5153e0f20526f1cc149d3ea50f993f67e517ba609a5e74d1b21a294b98a564bfba5eeb34e7c7385ad3590bbb411638c52e5e4f9231675bcf1ea32eae10e6e34fc5fde875142338a71b31fcb75043eb6f785ee367b39","ea320dcb8aeadaeac6545ba034ceedff716eed2070f7f5c04bd9e07a2b9ec05a0acef7e6214c8572d305eac6c0b6fd16434b3d326b0b03ad444353c811b29c5a2a3afe5a71d0695c424712100a33c80ec0929a8c53f8d39c5f3dbf234e79f70a4a29f","1509915f7f902d6a01f26609d57878ce7d98687395c08dc37a44610ca7e2601446dce3005e3f7507a508d15ad0d1212879a07127bde3bf166d6c5e43bc2ff236142c7552d0652ed521ef12fa310f3e1c0facba5a2813fb828d1fe8ed67819368ed171","24ef6f2378325e82a935a0281869b9229ed1148eeb583580a83fc3a6411c9553710a4bc3e3bbf82ec19568f42af9724fad1a64a507fcc96d00e184bbda134ee6aacf250314b83fc0aa030f93d460bfe168ad4d3e131165dc87cbbb77cb2ff9c9a3dd2","6e1fc940373f4614c9bc58bb3513fd23bd8b651f7e8cf8b2a3838ac4fdeb437171c3a5fa08b8fd0563f1fa850253624a718d8dad43280800f2ee2ae24b77add04bd88c982b641db88b5e04a5528bc73b3a53e8687e8be0f75ae9f51f6aebfd2bd7add","356388741b0abebdc606d35d5a7a2c31c7c08aafb4b621932525486ea8e1e4c2251adad481f4f78ff62b09e3172218001a08611554b213dd47acab15859d6af751bd3167d24f1a55b2512a017a0601e38f9ff20dca5bce30a26cf4eaa72bed4bcfc3f","c53bacd8d568d5fe8e3d630e360747c3bab21d9963a465eac756ac989c92bd7ebbd75b8db6e1366fccce77ef6e51cc3110b31326274589ffdf77e9debc6f38ea150a29dccbefae0e1ea6ffccef301306f90d891550c3ca162f5e3a1bff0e01f73da90","84bf91b399b95b788be2c4bb26f5bc78cd2c8f2eae38d4c9cb3688cee78a819d71762c44bbc8fea1354d8bcb611ba21126a7018e13a48c6722dd8577a6a48faa37fa58b370c129d4c0f508cb8dacc34e1062f9fe3dd287dbdeea5f87f9d585899479a","391b3c9172341cae2276d0f8deeacf462b3f7179747aa718e7f1ca1063c9238215a4347c7dcaee9fe7a1b8598d692b737730d9d1fb1c1a7a1209bb837375510625c4e22c81444e8a169387b7d6fae18b8da5be21dadcdc74d81de77eae98eb83f597d","0d3b4fe5773861fadda4259c73e816931d6626e2e75f4d5a78a217b707957bf47221d97a4b72548502fd287b50744cfaa033ed79cfa3642314e6c0e041af8293346e4dcc3441b10209a03426908c80eaed8bbc3f30550b5303bf334941cea439dadae","f8ee78a251d6146580b45b1fda86b853864536b7048cf8108c9fedf6dad31531bdfd44c76c925da485b10010b7c2aa92d668ea699bb757d4b0a40257e4e62e9059210fb925d7159f81eddaa27b62bb4deeb84be15aae00c48042da1b6ad3ff12d4627","70cf7c8a7151ac0ab59ffcfff68a4cbb1ca06f17615d4d3bfd2e13fffbda4c198ab38f484f2db86ad5bdbc9f456e1feb5c3e7ca2914a34d2e4e005aad5687d24d04754e2b9f5ea6a53cd7dd1bb187b633ae31bc8cdd76a61d1f5dfef7ecfaebde8222","aabff55ea6da6c6047d7aad6e35b65ef1bfda18b63fe250dfdc19b13b8c1a6784eac517db4fa5a405a044fc733cbecaa604343cd2c86d01923e3bbcc05e5d883d14c46cf72be5e2c50640b3aa5e2b3b42b9188ed2a4709ec323583b75cf46ae73fc8b","4db59db78b7603eb9a64598fd8fe49111cf8d4a9c569ed87c9f94dbf51e571ff8b91227e851026d9b4bcfceb54726e181af0e871a376d1f3115911720f80258940b00bfc2d43d1769b9244fbb74a3663f890d0cd54cf0f7c7cbbc8c1aad73fa6aa54d","725c9e5e1732138adf897acd120e010763ecd33b6a2fe0ffdf97ac9af53865102f8cc05ae59040996b83f22bf24bac94bf20a094668f8365293147d183f21f5c9f8d6e57b1776c5369d96fbcfa4f041f980b5800a67a455ce96738e191921e337e89c"}
-local t5ouwihQeY0={21,20,38,22,40,5,10,6,13,8,36,33,26,1,25,31,28,37,35,23,15,24,9,12,16,17,29,32,19,34,18,27,39,14,11,7,30,4,3,2}
-local w80t4oD_pxrq1={"3b1ce87d5aefe323e922a2c9b235e3053b3eb445f3d558bce4b5d3f01056d1eb7f1da1408edb1683a7ba2f50a62ae420771da99cb47f1e99a942cde21018fc4d355de96d1bca0c42a713a4838a045e8d5f48e5b3528419d9e4739350b3a2f1183b4ff","bf1216424145e4f8c38ade8a1a0f2703f31ff452ae223ad7355655a358a23e22293c4fe182ece69e7a9204a904af297082000e05eaa3c4f14a10f01d11e99a7f28503451b0d720e4ce8fcb7f2736ec9a0d2507e3e32757f36f36097e610f1af5092c8","440cf3ed8d49908ac4003dc786e3eb8476ea082cbbf1226867abf09a207e1764428440f1cd79019cee09738834ff7b88997f2da5811bf29d9b3255c4201c28705a88b2f39e38e17bcf64befdbfa54e61d2c5fba6060299eed01939d720adae2d694a0","a6879076ef2fa28fa75e0ce032361ae0065add1495292a03ce12539a93aadb56034630e8897c9525efb0a56f9552ce73664bcb33eb9963407ed9cc28159525589ce858d75d997fdd8c30977e06d6fcd075bbc8c9b8cf86765405e1b42f60bae9457ad","de644e27bfd56fc6b2b23f3adb575592fb0574873ee71e108fb62e96b6aac513bf452755801114ae604b3310988b6ab42fabc7aa6b70a409a1f70c9bc2f89861f1b74ad5ce85a2ec1be95c49fd3ed1044b2543b55a9035a9d4abc55239750fe3da2eb","92c89d63f4ce8203b4ded84b68dddfae6979dd010e805b86e5cbb5e088d0b06a7369c2671f06db8ad42eb3440d94299a75f88e91069b00b501d5564adef4ab3e62bdb3b5967ed6c3b91e703fbe64ab1e43fc830fe2188693b34bb89338dd560ef4431","6579cc802fff93dffba9f61553e6b9ea3d836fb54f51b3e0009782afa933e9cc0bba92176216f314a1d62af78b1daa53145af91d371c420b912024c83f567cd709f0a8523e99b64885dcf2ae87e1a862c0f410ba387ce1c1bb5ffdd5670295b567fbc","beca2b8ab0a6391ea23e220acf58e9d149b5d317fa81128bb5c10050112c94d10ba4a7016edc5c76a934f068c46583439b77c762bbcc65c98dffdcb535b920810f8653e2f0933503916b437b3958df253816d6710803facee0193b999f2aeac084aed","577cf61c7e34a22a792b959db87f1a8ad3ee87f0f8fa7a775e2b59d45d5a1177509b555af37c6728cc299c16739e640bd77a929f25e3c63ba3af1c96843db61a4eb9022861104d6db4e57cfaa8811a51a9dcf1036aaeac9916d9ddda58797746b674b","f99a85cebe3a7fc47a8247da024a9cd3c5a03dd44eaa6a8609ff2a46fc4ac8f3f19c34b96c74a522627fffc0f703b1a735dae04ece0a77e809a9ff0159b367d66e57d72a4a81dbfe0bca721cd10ff831477a89ba7740d2a417ed3a569f28ef9f70af8","3d884097ae75b4cc1357df98380ff7015b960311bf9bca577e3d05f4388d74c659d5c2c0a00c6a9d7d169b21cee06d221d6037107fd25b398a318d6e0feeaa430b365f8fa197cad428afac598d7d206bb578385abdd09c6c22bcd76138ab3e7f42e34","7e2083608627a9c67af8728b3ed4963aebb642241ead9f98b9fefa332a0c6e51df1601fe1099c6008e4f0213ac4eb4f534ce87fb22edcd362ae4ed569e35d1892d52aae7ba04f3978d346861a883ee940eec483ad2897eb7d1039099aa21f00e7d170","09e5520e847c2d93e661409348622d2a0f340c51ec0b04688c99ff312dde6908631366971b677d2b647a0e97e01f1351f71af903c1738014891690add08f39b23042db5843b7cc4c2cd18a22489b970869640b78f31df9f3d0e0785d0efbe93fa144c","cba65ada85a7679c9d771a15483d8d681e7d4178c0352f8bc26b97816f6b9842ad1786afc0da626ad3a6f3859b3326f846aa46e4070821bd1438f6d7311d90205a1f752a45ad4ff1c93917359a2cd171b3495c5f448a0e9c7eea4385a338517641238","8adb6a836334e2e78f9bdf91d7d0b8d9eecfae828c1ccd01ee30587c27ae1349f07cd2b365731dc71f67ce479cfb1e14fb13319afd3f664c9c41c68ae4b66c0e6d36a6537379264553bb64fe786ffe09f1b9721fd34cf2772965b6f546c4a1f76629e","19f83eaf17f36730d10c99c94d837247c4281267e74bff95df3ed95c48f4ef4c690158eecf39b210d96b8b72b89dda643a1e61106a8972d270062fcb2cd4acbbcca8c5ad7de61bad2225dc147098506acea2633358f29e9b330c4595ef9399647d1b3","6aec5d36d526b72cf3cda2dae8c987a46be04ef67f90bcff665be3a875a51789934a77062e6cad7c57961cead56cf3e4f506ba18465ae6249c9c283b559c8f0c34e057ca209363e3067fd4919b86a2954dbd032d34c4c4dbd6cb63d3d6af777b6c6de","f229bc8e1132ff2f6f66659c75db24cc257acd16ce3300656c9e167843e99655aa8f0ae64019ac7230db05a7524102406fd628fb908968f643a4d6beb45e7045aaebefabeb970e92617b00d72ef8aadecfbb5d2e10953800938a3ff7cb7efa2b4f22c","000329778ff3fa8d2c9dcebb5ec5a54460e80b05b0d3828522c13afe2ce605556af4705ab2a0f29d38179bf42fa91f3547f8af14d15aa9f50991ebaf10d9347a1de5443369422d974f917c5f11fc747ea60103b4729499e9098cce5e56f6b8f813f36","220ed25bcc0c3bfe30ee15a98ad7c0dfeda6a8be303706e94f8940e9c1ca1c9bd17a904e209c84608940f2cbdd57959863dd05977134b889305eac8f02e8a75aed20372afc06e66b4a721d9d336b5c169f38bf74ad3d06b38e094966c54fa1b9a18de","aee6ba08068db4c1e91d126b59755880d2d1cdbc2e87c7064788acf17c3788aebcf7d8d3aaf87a27577b46f9dd6d8495ea438ec74a5096ad5557f5fa0586bdbfbb77f032d47367f21ffb952b57477eace293cb717e972e84b726e161fc92bc10a4111","854e8d8d5d8e6bfdb1613e1bc8252be4e44d28dad4add38a45f91c8f5bf06202af77778bfb6ba24fc7e121801131888f1824208b170b137f46ebbad4da220a945844bc4d3ead1c78875af61e571a78ac48c7c07939b85d5d7607b7d2099e2831c97cb","1f7109f49b08da4d2ad68567893e00a005cee15c8b9460f242bb9d7592e68649131c34b1dbaf720f50d21431bedd92aa9f79295efd51e8080d47eb7d7ad25538dca6fe4af77ffeb84aa73e902f9b223d112063cd4565c2983ed31c71b0e33210a37e7","9de0656f05ce0c55a1568f9a57777667449c3554aad7f0b278609d3e8306d4a00a824c33d4beaf179e6062bd4115fb8b74c3555c12ce6c732d658f796b6a6cfd063423b9860553076869da12039ccd664b38281b816bee42685f8cc3653706629a393","6f60f0011323a7c9fadf0969726e7fdbc73322f96b1af930c1cfa538a2a1711fee7d2d9f1e37314dfa23cb56f8c12d00a16c998d4b9c3163706fb0c2f4533b1dc95f20ca42b1b56c35011010086be89b0af387db496ad3fd4331860a125cad5ba9608","aae6ff2621a63013e6fef1a5f365a3cc432de44186e8a92d1f900206d66c61f8a869a2f4fe58ab601fa55052a7448e1e7a9baa176d58a293df97de52a70a57aaec4cc6650385a99f6d410486bd21ea39bbd4a26e6906807819e9d8dc3d119f12c3d3e","b651fa3448cd10afad3429ae0fe388073505eaa4f51e09d0b9b4031a44a2e734bad10ca5717341cd7746a268d152cb475f97e8e4d67c0e5063f72d33cd3250b7ae111a128c95c6ca6a72b8dacb269ab23c2c2ca3a9da13c9e122beae2b02b2a74ad0c","eb293b5ebb7a34e6e18b5b4ae8e9a92f89b0135e34cda6ec6353f2825ba7818eedfe2f1f54ee07a9615a9c42a9e96bf4f2fe7d50964432550309be4483a72c6eda590ae6cef913e5911fab436aa99c52dea438c33d0c695e6919c311bbec6b96e85c3","d5fb4731ce4469a21dad6af5971408b7a88246d8be8fa2e5e33f5d1045fdb052770369fad2072fde4df7b504b9fbf026dff4bcadbe4d35a2bb85b35e4a46f303d268969f21fe4ce73d0458645f5adb21b7af3f13f62818773c5098f6acf664390460b","2122659b6815105ef98f3be8bb541c9414ad6c42db92b2175e8b4f8db6e3328ebe18bd77f4921087aaba1114ef3af7e64a65642b35e0dfd3e55e7209e04a0ef211bef3096e862887f82ea156bb9b5a15be9ccc098134103fc47535aac96d308f42e75","e84e206881fa2db3ca36c5e7f6cfaf7315e96aac7fb47dbea227f402045cad7a7ff089cac7dd872140b55d4700047c8edc00842929e260a0353fd7316fc1f922aa67e61db149643982f740d2dd9de80c3e1fc68069f910de5113cfd5ef8dc4ec76304","4cfe51adec71e7c3965e6856bf85f2bd3d863100a02eca9e9d2369f362cfc22d8ed2395e054dd10e86007a511cde64a9d2930ccd40a0aeb1b65bc1ba2067e36f9ea357da91cdb55d10336ae0692746d94a4a556d22066705d6222d00c6ad26de4a4a9","57be5643399e2a9cda4fed0dde33b14edd2525cec96a5d8bca75110aa5b695dfc7525901eb3baba837c513d8deb3b1de70a5ad150bee64796bebb69aa753be71011f8b61cabea702f92bb385e197252557d3363f039e5606efbbb52aa717218","eef8b361ae59af86cee1bf4ba2c79ed490e3db65629928c3b5aa534d54a1b343271c1aeb74dbe5730887656592ec8f3808c6c3f362f0ed3509d88022ba464277b23e993f961826db56cd2801ae846e78704be0f9c2f1212b28c75aada91e209d86dd8","fc04c03d9a7f2fb1e455f1fae6f7ba12e49d98681ba962fdf5156b077e387da41f0083aa4bf5e889310c6aaeb3b60ef608d9f016cef13c1cb735ec074e860ee6058a305d8b6368c8f2dcea2d76f3eef16bca6be23be75058f0969ab71e31c0311eb5a","226bbe6ace03728de074e45e3b54d5568108e1f24545a97c2574aa20e952e547dff9e37bdda6af4e8e7498c00410b232d66173b47f09317086735e9d9b3e330b14d96bd5310b9785b8820fdd5d79d7b0d7b66aca7697573ce07da1dee342d5200a9e2","9ce5b028d46081778e58552097d8bddf83e3db0d0905940cfe344b2ea891a7ae3122fbcd9238d15b696ec539169c18acd3918f2758f1a6c2af77f4657f9f3e9c2ad81edb2afb1220adf57860533324cde223da3c3accecce6b77ebaf01b71eb774098","48f3b5f1134220ae34d7d41b49bb8521ac1a3edfa0b5a9f14063e4960a4b767026d2196ca7175b3421ee30a6ddffe2f9b567509e572f517622ba5e5d977b0d503597f86fe4207aa20e8ee5bf1be5119ea747e5ba142f05f05f3eb367b3cbf130f9d73","7c3760a7e9a6ec0330dbc85edb53c2d55e6b40abaec6d7fd93e0b9c69f6d94695de347f1d6878c1b4ef5b1838fa8fc601c3ced51298df367c2c92316304e96420c9304ffa4ba58576a9cd46a0f9cbb374a9521cdc63734a762d6214cce4f1d3ee3261","59c1860af3810318553ad1d4bc72ebbe3d52d679003ac3bd42022fe92ed44863423b422fbc8ab2b8df2e4ffec22a6ba6f6ad2d11accc6abd97801098211dab3955eee69fad4ab04a8c8e8e7e7447095efcd92a218c72d2a90705b5cab608eae91cdd3"}
-local x7BFLSAmdubbf={39,30,21,8,38,36,4,3,20,17,1,14,10,7,22,25,13,28,33,12,18,5,19,11,27,31,26,37,29,35,2,24,40,9,34,15,23,32,6,16}
-local Xu1KEHCQ={}
-for OdZchnYpyokY=1,#t5ouwihQeY0 do Xu1KEHCQ[t5ouwihQeY0[OdZchnYpyokY]]=oMVowIlym1sofO[OdZchnYpyokY] end
-Xu1KEHCQ=table.concat(Xu1KEHCQ)
-local M8KhkQX8QOu2b={}
-for OdZchnYpyokY=1,#x7BFLSAmdubbf do M8KhkQX8QOu2b[x7BFLSAmdubbf[OdZchnYpyokY]]=w80t4oD_pxrq1[OdZchnYpyokY] end
-M8KhkQX8QOu2b=table.concat(M8KhkQX8QOu2b)
-local gruVP19dN={}
-for OdZchnYpyokY=1,#Xu1KEHCQ,2 do
-  gruVP19dN[#gruVP19dN+1]=tonumber(string.sub(Xu1KEHCQ,OdZchnYpyokY,OdZchnYpyokY+1),16)
+--[[
+  SEIRUS HUB v4 — Boxing Beta
+  Key: seirusxyz
+  Discord: https://discord.gg/cTSGSdzEEM
+
+  DÜZELTMELER:
+  • Punch Aura: Damage3Event(player,true,"back",false) — DOĞRU argüman
+    Ban-safe: insan hızı, mesafe kontrolü, rate limit
+  • InfStamina / InfDodgeStam: KASMA YOK — sadece Changed hook,
+    döngü 1s aralıklı, attribute set sadece açıkken
+  • WalkSpeed sorunu: sadece oyun düşürünce geri koyulur
+  • Auto Block / Auto Dodge: KALDIRILDI (istek üzerine)
+  • GUI: toggle, slider, arama, notify, key sistemi
+]]
+
+local Players    = game:GetService("Players")
+local RS         = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+local UIS        = game:GetService("UserInputService")
+local TweenSvc   = game:GetService("TweenService")
+local Lighting   = game:GetService("Lighting")
+
+local LP  = Players.LocalPlayer
+local Cam = workspace.CurrentCamera
+
+-- ════════ KARAKTER ════════════════════════
+local Char, Hum, HRP
+local function RefChar()
+    Char = LP.Character; if not Char then return end
+    Hum  = Char:FindFirstChildOfClass("Humanoid")
+    HRP  = Char:FindFirstChild("HumanoidRootPart")
 end
-local EttVyZcH4KP={122,202,35,224,70,209,62,90,100,84,231,99,22,121,138,221}
-for OdZchnYpyokY=1,#gruVP19dN do
-  gruVP19dN[OdZchnYpyokY]=bit32.bxor(gruVP19dN[OdZchnYpyokY],EttVyZcH4KP[(OdZchnYpyokY-1)%#EttVyZcH4KP+1])
+repeat task.wait(0.1) until LP.Character; RefChar()
+LP.CharacterAdded:Connect(function(c)
+    task.wait(0.5); Char=c
+    Hum=c:FindFirstChildOfClass("Humanoid")
+    HRP=c:FindFirstChild("HumanoidRootPart")
+end)
+
+-- ════════ REMOTE ══════════════════════════
+local _rC={}
+local function GetCRR()
+    if _rC["__f"] and _rC["__f"].Parent then return _rC["__f"] end
+    local f=RS:FindFirstChild("CombatRemotesRemotes")
+    if f then _rC["__f"]=f; return f end
+    for _,v in ipairs(RS:GetDescendants()) do
+        if v.Name=="CombatRemotesRemotes" then _rC["__f"]=v; return v end end
 end
-local b3LQIvfYs={}
-for OdZchnYpyokY=1,#M8KhkQX8QOu2b,2 do
-  b3LQIvfYs[#b3LQIvfYs+1]=tonumber(string.sub(M8KhkQX8QOu2b,OdZchnYpyokY,OdZchnYpyokY+1),16)
+local function GetR(name)
+    if _rC[name] and _rC[name].Parent then return _rC[name] end
+    local f=GetCRR(); if f then
+        local r=f:FindFirstChild(name); if r then _rC[name]=r; return r end end
+    for _,v in ipairs(game:GetDescendants()) do
+        if v.Name==name and (v:IsA("RemoteEvent") or v:IsA("RemoteFunction")) then
+            _rC[name]=v; return v end end
 end
-local lTIV_Gc4HDOg={135,16,186,31,104,251,67,12,184,106,21,187,231,27,174,144}
-for OdZchnYpyokY=1,#b3LQIvfYs do
-  b3LQIvfYs[OdZchnYpyokY]=bit32.bxor(b3LQIvfYs[OdZchnYpyokY],lTIV_Gc4HDOg[(OdZchnYpyokY-1)%#lTIV_Gc4HDOg+1])
+-- Arka planda remote cache
+task.delay(4,function()
+    for _,v in ipairs(game:GetDescendants()) do
+        if (v:IsA("RemoteEvent") or v:IsA("RemoteFunction")) and not _rC[v.Name] then
+            _rC[v.Name]=v end end end)
+
+-- ════════ CONFIG ══════════════════════════
+local CFG={
+    MaxPower=false,
+    InfStamina=false,
+    InfDodgeStam=false,
+    InfHP=false,
+    FastPunch=false,
+    PunchAura=false, AuraRange=6, AuraDelay=0.25,
+    AntiFling=false, InfJump=false,
+    Fly=false, FlySpeed=60,
+    WalkSpeed=16, JumpPower=50,
+}
+
+-- ════════ NOTIFY ══════════════════════════
+local _nF
+local function SetupNotify()
+    local pg=LP:WaitForChild("PlayerGui")
+    local old=pg:FindFirstChild("SN"); if old then old:Destroy() end
+    local sg=Instance.new("ScreenGui",pg)
+    sg.Name="SN"; sg.ResetOnSpawn=false
+    sg.ZIndexBehavior=Enum.ZIndexBehavior.Global; sg.DisplayOrder=999
+    _nF=Instance.new("Frame",sg)
+    _nF.Size=UDim2.new(0,260,1,0); _nF.Position=UDim2.new(1,-268,0,0)
+    _nF.BackgroundTransparency=1; _nF.BorderSizePixel=0
+    local l=Instance.new("UIListLayout",_nF)
+    l.SortOrder=Enum.SortOrder.LayoutOrder
+    l.VerticalAlignment=Enum.VerticalAlignment.Bottom
+    l.Padding=UDim.new(0,6)
+    local p=Instance.new("UIPadding",_nF); p.PaddingBottom=UDim.new(0,14)
 end
-local RdLAhQkgZIWnjy={}
-for OdZchnYpyokY=1,math.max(#gruVP19dN,#b3LQIvfYs) do
-  if gruVP19dN[OdZchnYpyokY] then RdLAhQkgZIWnjy[#RdLAhQkgZIWnjy+1]=gruVP19dN[OdZchnYpyokY] end
-  if b3LQIvfYs[OdZchnYpyokY] then RdLAhQkgZIWnjy[#RdLAhQkgZIWnjy+1]=b3LQIvfYs[OdZchnYpyokY] end
+SetupNotify()
+local _nIdx=0
+local function Notify(title,msg,green)
+    if not _nF or not _nF.Parent then SetupNotify() end
+    _nIdx=_nIdx+1
+    local card=Instance.new("Frame",_nF)
+    card.Size=UDim2.new(1,0,0,0); card.BackgroundColor3=Color3.fromRGB(10,10,16)
+    card.BorderSizePixel=0; card.LayoutOrder=_nIdx; card.ClipsDescendants=true
+    Instance.new("UICorner",card).CornerRadius=UDim.new(0,8)
+    local sk=Instance.new("UIStroke",card); sk.Color=Color3.fromRGB(26,26,42); sk.Thickness=1
+    local bar=Instance.new("Frame",card); bar.Size=UDim2.new(0,3,1,0)
+    bar.BackgroundColor3=green and Color3.fromRGB(50,190,90) or Color3.fromRGB(190,55,75)
+    bar.BorderSizePixel=0; Instance.new("UICorner",bar).CornerRadius=UDim.new(0,8)
+    local tL=Instance.new("TextLabel",card)
+    tL.Size=UDim2.new(1,-14,0,18); tL.Position=UDim2.new(0,10,0,8)
+    tL.BackgroundTransparency=1; tL.Text=title
+    tL.TextColor3=Color3.fromRGB(205,208,238); tL.TextSize=12; tL.Font=Enum.Font.GothamBold
+    tL.TextXAlignment=Enum.TextXAlignment.Left
+    local mL=Instance.new("TextLabel",card)
+    mL.Size=UDim2.new(1,-14,0,14); mL.Position=UDim2.new(0,10,0,26)
+    mL.BackgroundTransparency=1; mL.Text=msg
+    mL.TextColor3=Color3.fromRGB(95,98,140); mL.TextSize=10; mL.Font=Enum.Font.Gotham
+    mL.TextXAlignment=Enum.TextXAlignment.Left
+    TweenSvc:Create(card,TweenInfo.new(0.22,Enum.EasingStyle.Quint,Enum.EasingDirection.Out),
+        {Size=UDim2.new(1,0,0,48)}):Play()
+    task.delay(3,function()
+        if not card.Parent then return end
+        TweenSvc:Create(card,TweenInfo.new(0.18),{Size=UDim2.new(1,0,0,0),BackgroundTransparency=1}):Play()
+        task.delay(0.2,function() pcall(function() card:Destroy() end) end)
+    end)
 end
-local cz9baqtbC_N={}
-local W5xKCigC2tpUKx=93493127
-for OdZchnYpyokY=#RdLAhQkgZIWnjy-1,1,-1 do
-  W5xKCigC2tpUKx=(W5xKCigC2tpUKx*1664525+1013904223)%4294967296
-  local uxOOM3fkyh=W5xKCigC2tpUKx%(OdZchnYpyokY+1)+1
-  cz9baqtbC_N[#cz9baqtbC_N+1]={OdZchnYpyokY+1,uxOOM3fkyh}
+
+-- ════════════════════════════════════════════
+--  INF STAMINA — KASMASIZ, SIFIR DÖNGÜ YÜKÜ
+--  ─────────────────────────────────────────
+--  Kök neden: döngüde her 0.3s'de tüm descendants → CPU
+--  Çözüm:
+--  1) Karakter spawn'da bir kez scan → Changed hook
+--  2) Döngü: SADECE attribute set, 1s aralık
+--  3) WalkSpeed: sadece oyun düşürünce geri koy
+--  4) Blur: DescendantAdded hook (döngü değil)
+-- ════════════════════════════════════════════
+local BLUR_KW={"blur","overlay","vignette","exhausted","tired","staminaeffect",
+    "blackout","breathe","darken","fog","sloweffect","knockout","staminalow","dim","dark"}
+local function IsBlurName(n)
+    n=n:lower()
+    for _,k in ipairs(BLUR_KW) do if n:find(k,1,true) then return true end end
 end
-for OdZchnYpyokY=#cz9baqtbC_N,1,-1 do
-  local aIiLWvrLaaC1J=cz9baqtbC_N[OdZchnYpyokY]
-  local alresJp0o1tt_=RdLAhQkgZIWnjy[aIiLWvrLaaC1J[1]]
-  RdLAhQkgZIWnjy[aIiLWvrLaaC1J[1]]=RdLAhQkgZIWnjy[aIiLWvrLaaC1J[2]]
-  RdLAhQkgZIWnjy[aIiLWvrLaaC1J[2]]=alresJp0o1tt_
+local function CleanFX(v)
+    pcall(function()
+        if v:IsA("BlurEffect") then v.Enabled=false; v.Size=0
+        elseif v:IsA("ColorCorrectionEffect") then
+            v.Enabled=false; v.Brightness=0; v.Contrast=0; v.Saturation=0
+        elseif v:IsA("DepthOfFieldEffect") then v.Enabled=false
+        elseif (v:IsA("Frame") or v:IsA("ImageLabel") or v:IsA("CanvasGroup")) and IsBlurName(v.Name) then
+            v.Visible=false; v.BackgroundTransparency=1
+            if v:IsA("ImageLabel") then v.ImageTransparency=1 end
+        end
+    end)
 end
-local Jx77R3zvWW8bI={150,93,236,60,216,30,47,43,187,9,140,49,43,185,171,247}
-for OdZchnYpyokY=1,#RdLAhQkgZIWnjy do
-  RdLAhQkgZIWnjy[OdZchnYpyokY]=bit32.bxor(RdLAhQkgZIWnjy[OdZchnYpyokY],Jx77R3zvWW8bI[(OdZchnYpyokY-1)%#Jx77R3zvWW8bI+1])
+local function KillFX()
+    for _,v in ipairs(Lighting:GetDescendants()) do CleanFX(v) end
+    local pg=LP:FindFirstChildOfClass("PlayerGui"); if not pg then return end
+    for _,v in ipairs(pg:GetDescendants()) do CleanFX(v) end
 end
-local zAaSSsdOSHioc=0
-local GAIqj_Nk=string.len("")
-local GJs5r8CZ=math.floor(0)
-do end
-local jI0pI7C4czP={7,84,22,174,189,38,129,212,34,185,204,74,160,92,17,234}
-local UMRNMd64={}
-for OdZchnYpyokY=1,#RdLAhQkgZIWnjy do
-  UMRNMd64[OdZchnYpyokY]=string.char(bit32.bxor(RdLAhQkgZIWnjy[OdZchnYpyokY],jI0pI7C4czP[(OdZchnYpyokY-1)%#jI0pI7C4czP+1]))
+-- Yeni efekt eklenince temizle (döngüsüz)
+Lighting.DescendantAdded:Connect(function(v)
+    if CFG.InfStamina or CFG.InfDodgeStam then task.defer(function() CleanFX(v) end) end end)
+task.spawn(function()
+    local pg=LP:WaitForChild("PlayerGui")
+    pg.DescendantAdded:Connect(function(v)
+        if CFG.InfStamina or CFG.InfDodgeStam then task.defer(function() CleanFX(v) end) end end)
+end)
+-- 3s'de bir blur tarama (minimum yük)
+task.spawn(function()
+    while true do task.wait(3)
+        if CFG.InfStamina or CFG.InfDodgeStam then KillFX() end
+    end
+end)
+
+-- Stamina value hookları (sadece Changed)
+local _sHooked={}; local _tracked={}
+local function IsDodgeN(n) n=n:lower(); return n:find("dodge") or n:find("dash") or n:find("evade") end
+local function IsStamN(n)
+    n=n:lower()
+    if IsDodgeN(n) then return false end
+    if n:find("hp") or n:find("health") or n:find("damage") or n:find("power") or n:find("mana") then return false end
+    return n:find("stamina") or n:find("stam") or n:find("energy")
 end
-local kU6U85pMH=table.concat(UMRNMd64)
-local QzIodEpLJ3kTD,EeyvCPwvOKs=loadstring(kU6U85pMH)
-if QzIodEpLJ3kTD then
-  QzIodEpLJ3kTD()
-else
-  error(" x01337 | // @ Monsy | Public Enemy : "..tostring(EeyvCPwvOKs))
+local function HookVal(v,isDodge)
+    if _sHooked[v] then return end; _sHooked[v]=true
+    local mx=math.max(v.Value>0 and v.Value or 0,100)
+    table.insert(_tracked,{v=v,isDodge=isDodge,mx=mx})
+    v.Changed:Connect(function(new)
+        if type(new)~="number" or not v.Parent then return end
+        local active=isDodge and CFG.InfDodgeStam or CFG.InfStamina
+        if active and new<mx*0.88 then
+            task.defer(function()
+                if v.Parent and (isDodge and CFG.InfDodgeStam or CFG.InfStamina) then
+                    pcall(function() v.Value=mx end) end end) end end)
 end
+local _scanDone={}
+local function ScanOnce(root)
+    if not root or _scanDone[root] then return end; _scanDone[root]=true
+    -- task.spawn ile spawn et, kasma yok
+    task.spawn(function()
+        for _,v in ipairs(root:GetDescendants()) do
+            if v:IsA("NumberValue") or v:IsA("IntValue") then
+                if IsDodgeN(v.Name) then HookVal(v,true)
+                elseif IsStamN(v.Name) then HookVal(v,false) end
+            end
+        end
+    end)
+    root.DescendantAdded:Connect(function(v)
+        task.wait(0.1)
+        if v:IsA("NumberValue") or v:IsA("IntValue") then
+            if IsDodgeN(v.Name) then HookVal(v,true)
+            elseif IsStamN(v.Name) then HookVal(v,false) end end end)
+end
+
+-- WalkSpeed hook — sadece oyun düşürünce geri koy (artırmıyoruz)
+local _wsH=nil
+local function SetWSHook()
+    if _wsH then _wsH:Disconnect(); _wsH=nil end
+    local hum=LP.Character and LP.Character:FindFirstChildOfClass("Humanoid"); if not hum then return end
+    _wsH=hum:GetPropertyChangedSignal("WalkSpeed"):Connect(function()
+        if not(CFG.InfStamina or CFG.InfDodgeStam) then return end
+        if hum.WalkSpeed<CFG.WalkSpeed-1 then
+            task.defer(function()
+                if hum and hum.Parent then pcall(function() hum.WalkSpeed=CFG.WalkSpeed end) end end) end end)
+end
+
+-- Attr isimleri
+local NORM_A={"Stamina","stamina","CurrentStamina","currentStamina","Energy","energy","StaminaValue"}
+local DODG_A={"DodgeStamina","dodgeStamina","DodgeEnergy","dodgeEnergy","DashStamina","dashStamina"}
+
+-- Döngü: sadece attribute set + value reset, 1s aralık (kasma yok)
+task.spawn(function()
+    while true do
+        task.wait(1)
+        local c=LP.Character
+        if c then
+            if CFG.InfStamina then
+                for _,a in ipairs(NORM_A) do
+                    local v=c:GetAttribute(a)
+                    if v~=nil and type(v)=="number" and v<90 then pcall(function() c:SetAttribute(a,100) end) end end
+                -- WalkSpeed restore
+                if Hum and Hum.WalkSpeed<CFG.WalkSpeed-1 then pcall(function() Hum.WalkSpeed=CFG.WalkSpeed end) end
+            end
+            if CFG.InfDodgeStam then
+                for _,a in ipairs(DODG_A) do
+                    local v=c:GetAttribute(a)
+                    if v~=nil and type(v)=="number" and v<90 then pcall(function() c:SetAttribute(a,100) end) end end
+            end
+        end
+        -- Value reset (kasmasız: sadece aktif olanları)
+        if CFG.InfStamina or CFG.InfDodgeStam then
+            for i=#_tracked,1,-1 do
+                local t=_tracked[i]; if not(t.v and t.v.Parent) then table.remove(_tracked,i); continue end
+                local active=t.isDodge and CFG.InfDodgeStam or CFG.InfStamina
+                if active and t.v.Value<t.mx*0.88 then pcall(function() t.v.Value=t.mx end) end
+            end
+        end
+    end
+end)
+
+local function ApplyStam()
+    local c=LP.Character; if c then ScanOnce(c) end
+    local pg=LP:FindFirstChildOfClass("PlayerGui"); if pg then ScanOnce(pg) end
+    SetWSHook(); KillFX()
+    task.delay(1,KillFX); task.delay(3,KillFX)
+end
+
+LP.CharacterAdded:Connect(function(c)
+    task.wait(1); _scanDone={}
+    ScanOnce(c); SetWSHook()
+    if CFG.InfStamina or CFG.InfDodgeStam then KillFX() end
+    if CFG.InfHP then SetupInfHP() end
+    if CFG.MaxPower then task.spawn(ApplyMaxPower) end
+end)
+task.delay(3, ApplyStam)
+
+-- ════════ MAX POWER ═══════════════════════
+local PUNCH_A={"punchVariant","punchPower","power","Power","damage","Damage","punchDamage","attackDamage"}
+local _pvH,_pvV={},{}
+local function HookPV(v)
+    if _pvH[v] then return end; _pvH[v]=true; table.insert(_pvV,v)
+    v.Changed:Connect(function(new)
+        if not CFG.MaxPower or not v.Parent then return end
+        local n=v.Name:lower()
+        if n:find("variant") then if new~=3 then task.defer(function() if v.Parent then v.Value=3 end end) end
+        elseif n:find("cd") or n:find("cooldown") then if new>0 then task.defer(function() if v.Parent then v.Value=0 end end) end
+        else if new<9 then task.defer(function() if v.Parent then v.Value=9 end end) end end end)
+end
+local function ScanPV(root)
+    if not root then return end
+    task.spawn(function()
+        for _,v in ipairs(root:GetDescendants()) do
+            if v:IsA("NumberValue") or v:IsA("IntValue") then
+                local n=v.Name:lower()
+                if n:find("variant") or n:find("punch") or n:find("power") or n:find("damage") then HookPV(v) end end end end)
+end
+task.spawn(function()
+    while true do task.wait(0.5); if not CFG.MaxPower then continue end
+        local c=LP.Character; if not c then continue end
+        pcall(function() local pv=c:GetAttribute("punchVariant"); if pv~=nil then c:SetAttribute("punchVariant",3) end end)
+        for _,a in ipairs(PUNCH_A) do local v=c:GetAttribute(a); if v~=nil then
+            pcall(function() if a=="punchVariant" then c:SetAttribute(a,3) elseif type(v)=="number" and v<9 then c:SetAttribute(a,9) end end) end end
+        for i=#_pvV,1,-1 do local v=_pvV[i]
+            if v and v.Parent then local n=v.Name:lower()
+                if n:find("variant") then if v.Value~=3 then pcall(function() v.Value=3 end) end
+                elseif v.Value<9 then pcall(function() v.Value=9 end) end
+            else table.remove(_pvV,i) end end end end)
+function ApplyMaxPower()
+    ScanPV(LP); if Char then ScanPV(Char) end
+    local pg=LP:FindFirstChildOfClass("PlayerGui"); if pg then ScanPV(pg) end
+end
+task.delay(4,ApplyMaxPower)
+
+-- ════════ FAST PUNCH ══════════════════════
+local _cdH,_cdVals={},{}
+local function HookCD(v)
+    if _cdH[v] then return end; _cdH[v]=true
+    local n=v.Name:lower()
+    if not(n:find("cooldown") or n:find("canpunch") or n:find("canattack") or n:find("punchdelay")) then return end
+    table.insert(_cdVals,{v=v,isBool=v:IsA("BoolValue")})
+    if v:IsA("BoolValue") then v.Changed:Connect(function(val)
+        if CFG.FastPunch and not val then task.defer(function() if v.Parent and CFG.FastPunch then v.Value=true end end) end end)
+    else v.Changed:Connect(function() if CFG.FastPunch and v.Parent then task.defer(function() v.Value=0 end) end end) end
+end
+local function ScanCD(root)
+    if not root then return end
+    task.spawn(function() for _,v in ipairs(root:GetDescendants()) do
+        if v:IsA("BoolValue") or v:IsA("NumberValue") or v:IsA("IntValue") then HookCD(v) end end end)
+    root.DescendantAdded:Connect(function(v) task.wait(0.05)
+        if v:IsA("BoolValue") or v:IsA("NumberValue") or v:IsA("IntValue") then HookCD(v) end end)
+end
+task.spawn(function()
+    while true do task.wait(0.06); if not CFG.FastPunch then continue end
+        for _,cd in ipairs(_cdVals) do if cd.v and cd.v.Parent then
+            if cd.isBool then cd.v.Value=true else cd.v.Value=0 end end end
+        if Hum then for _,anim in ipairs(Hum:GetPlayingAnimationTracks()) do
+            local n=anim.Name:lower()
+            if n:find("punch") or n:find("attack") or n:find("hit") then anim:AdjustSpeed(4) end end end
+        if Char then for _,a in ipairs({"punchCooldown","attackCooldown","canPunch","punchDelay"}) do
+            local v=Char:GetAttribute(a); if v~=nil then
+                pcall(function() if type(v)=="boolean" then Char:SetAttribute(a,true) else Char:SetAttribute(a,0) end end) end end end
+    end end)
+task.delay(2,function() ScanCD(LP); if Char then ScanCD(Char) end end)
+LP.CharacterAdded:Connect(function(c) task.wait(1); ScanCD(c) end)
+
+-- ════════ INF HP ══════════════════════════
+local _hpC=nil
+function SetupInfHP()
+    if not Char or not Hum then return end
+    local hs=Char:FindFirstChild("Health"); if hs and hs:IsA("Script") then hs.Disabled=true end
+    if _hpC then _hpC:Disconnect() end
+    _hpC=RunService.Heartbeat:Connect(function()
+        if not CFG.InfHP then _hpC:Disconnect(); _hpC=nil; return end
+        if not Hum or not Hum.Parent then _hpC:Disconnect(); _hpC=nil; return end
+        if Hum.Health<Hum.MaxHealth then pcall(function() Hum.Health=Hum.MaxHealth end) end end)
+end
+
+-- ════════════════════════════════════════════
+--  PUNCH AURA — BAN-SAFE, DOĞRU ARGÜMANLAR
+--  ─────────────────────────────────────────
+--  Boxing Beta Damage3Event:
+--    args[1] = Player (LocalPlayer değil, hedef player)
+--    args[2] = true (hit confirmation)
+--    args[3] = direction string ("back","forward","left","right")
+--    args[4] = false (super punch değil)
+--
+--  Ban-safe önlemler:
+--  · Min delay: CFG.AuraDelay (varsayılan 0.25s → 4 vuruş/sn max)
+--  · Sadece InFight veya mesafe içindeyken
+--  · Yön hesabı: gerçek pozisyon farkına göre
+--  · Rate limiter: 1 saniyede max 4 fire
+--  · Dodge/block yapan oyuncuya vurmaz (opsiyonel)
+--  · Her vuruşta HRP yönü hedefe döner (legit)
+--  · Stamina kontrolü (varsa)
+-- ════════════════════════════════════════════
+local _aConn=nil
+local _lastA=0
+local _fireThisSec=0; local _fireSecT=tick()
+
+local function GetDir(from,to)
+    -- Yön: kendi CFrame'e göre
+    local diff=(to.Position-from.Position).Unit
+    local fwd=diff:Dot(from.CFrame.LookVector)
+    local rgt=diff:Dot(from.CFrame.RightVector)
+    if math.abs(fwd)>=math.abs(rgt) then
+        return fwd>=0 and "forward" or "back"
+    else
+        return rgt>=0 and "right" or "left"
+    end
+end
+
+local function GetNearest(maxD)
+    if not HRP then return nil end
+    local best,bestD=nil,maxD
+    for _,p in ipairs(Players:GetPlayers()) do
+        if p~=LP and p.Character then
+            local r=p.Character:FindFirstChild("HumanoidRootPart")
+            local h=p.Character:FindFirstChildOfClass("Humanoid")
+            if r and h and h.Health>0 then
+                local d=(HRP.Position-r.Position).Magnitude
+                if d<bestD then bestD=d; best=p end end end end
+    return best
+end
+
+local function StartAura()
+    if _aConn then return end
+    _aConn=RunService.Heartbeat:Connect(function()
+        if not CFG.PunchAura then return end
+        if not HRP or not Char or not Hum or Hum.Health<=0 then return end
+
+        local now=tick()
+        -- Saniye başına rate limit (max 4/sn)
+        if now-_fireSecT>=1 then _fireThisSec=0; _fireSecT=now end
+        if _fireThisSec>=4 then return end
+        if now-_lastA < CFG.AuraDelay then return end
+
+        local target=GetNearest(CFG.AuraRange)
+        if not target or not target.Character then return end
+        local tHRP=target.Character:FindFirstChild("HumanoidRootPart")
+        local tHum=target.Character:FindFirstChildOfClass("Humanoid")
+        if not tHRP or not tHum or tHum.Health<=0 then return end
+
+        local dist=(HRP.Position-tHRP.Position).Magnitude
+        if dist>CFG.AuraRange then return end
+
+        _lastA=now; _fireThisSec=_fireThisSec+1
+
+        -- Hedefe dön (legit görünüm)
+        pcall(function()
+            local d=(tHRP.Position-HRP.Position).Unit
+            HRP.CFrame=CFrame.lookAt(HRP.Position, HRP.Position+Vector3.new(d.X,0,d.Z))
+        end)
+
+        -- Yön hesapla
+        local dir=GetDir(HRP,tHRP)
+
+        -- ════ DOĞRU ARGÜMANLAR ════
+        -- Damage3Event(target_player, bool, direction, bool)
+        local de=GetR("Damage3Event")
+        if de then
+            pcall(function() de:FireServer(target, true, dir, false) end)
+        end
+    end)
+end
+local function StopAura()
+    if _aConn then _aConn:Disconnect(); _aConn=nil end
+end
+
+-- ════════ DİĞER ═══════════════════════════
+RunService.Heartbeat:Connect(function()
+    if not CFG.AntiFling or not Hum or not HRP then return end
+    local s=Hum:GetState()
+    if s==Enum.HumanoidStateType.Ragdoll or s==Enum.HumanoidStateType.FallingDown then
+        Hum:ChangeState(Enum.HumanoidStateType.GettingUp) end
+    if HRP.AssemblyLinearVelocity.Magnitude>100 then HRP.AssemblyLinearVelocity=Vector3.zero end end)
+
+UIS.JumpRequest:Connect(function()
+    if CFG.InfJump and Hum then Hum:ChangeState(Enum.HumanoidStateType.Jumping) end end)
+
+local _flyC,_flyBV,_flyBG,_flyMSG; local _fU,_fD=false,false
+local function CleanFlyM()
+    if _flyMSG and _flyMSG.Parent then _flyMSG:Destroy(); _flyMSG=nil end
+    _fU=false; _fD=false
+end
+local function StartFly()
+    if not HRP then return end
+    if Hum then Hum:ChangeState(Enum.HumanoidStateType.Physics) end
+    _flyBV=Instance.new("BodyVelocity",HRP); _flyBV.MaxForce=Vector3.new(1e9,1e9,1e9); _flyBV.Velocity=Vector3.zero
+    _flyBG=Instance.new("BodyGyro",HRP); _flyBG.MaxTorque=Vector3.new(1e9,1e9,1e9); _flyBG.P=9e4
+    local pg=LP:FindFirstChildOfClass("PlayerGui")
+    if pg then
+        CleanFlyM()
+        local mf=Instance.new("ScreenGui",pg); mf.Name="SFly"
+        mf.ResetOnSpawn=false; mf.ZIndexBehavior=Enum.ZIndexBehavior.Global; mf.DisplayOrder=997
+        _flyMSG=mf
+        local function Btn(lbl,y,d,u)
+            local b=Instance.new("TextButton",mf); b.Size=UDim2.new(0,88,0,36)
+            b.Position=UDim2.new(1,-98,1,y); b.BackgroundColor3=Color3.fromRGB(16,16,26)
+            b.BorderSizePixel=0; b.Text=lbl; b.TextColor3=Color3.fromRGB(180,183,220)
+            b.TextSize=13; b.Font=Enum.Font.GothamBold; b.AutoButtonColor=false; b.ZIndex=10
+            Instance.new("UICorner",b).CornerRadius=UDim.new(0,8)
+            Instance.new("UIStroke",b).Color=Color3.fromRGB(38,38,58)
+            b.MouseButton1Down:Connect(d); b.MouseButton1Up:Connect(u)
+            b.TouchLongPress:Connect(d); b.TouchEnded:Connect(u)
+        end
+        Btn("UP",-170,function() _fU=true end,function() _fU=false end)
+        Btn("DOWN",-128,function() _fD=true end,function() _fD=false end)
+    end
+    _flyC=RunService.RenderStepped:Connect(function()
+        if not CFG.Fly then
+            pcall(function() _flyBV:Destroy() end); pcall(function() _flyBG:Destroy() end)
+            _flyC:Disconnect(); _flyC=nil; CleanFlyM()
+            if Hum then Hum:ChangeState(Enum.HumanoidStateType.Running) end; return end
+        local d=Vector3.zero
+        if UIS:IsKeyDown(Enum.KeyCode.W) then d=d+Cam.CFrame.LookVector end
+        if UIS:IsKeyDown(Enum.KeyCode.S) then d=d-Cam.CFrame.LookVector end
+        if UIS:IsKeyDown(Enum.KeyCode.A) then d=d-Cam.CFrame.RightVector end
+        if UIS:IsKeyDown(Enum.KeyCode.D) then d=d+Cam.CFrame.RightVector end
+        if UIS:IsKeyDown(Enum.KeyCode.Space) or _fU then d=d+Vector3.new(0,1,0) end
+        if UIS:IsKeyDown(Enum.KeyCode.LeftControl) or _fD then d=d-Vector3.new(0,1,0) end
+        _flyBV.Velocity=d.Magnitude>0 and d.Unit*CFG.FlySpeed or Vector3.zero
+        _flyBG.CFrame=Cam.CFrame end)
+end
+local function StopFly()
+    pcall(function() _flyBV:Destroy() end); pcall(function() _flyBG:Destroy() end)
+    if _flyC then _flyC:Disconnect(); _flyC=nil end; CleanFlyM()
+    if Hum then Hum:ChangeState(Enum.HumanoidStateType.Running) end
+end
+
+-- ════════════════════════════════════════════
+--  GUI
+-- ════════════════════════════════════════════
+local PGui=LP:WaitForChild("PlayerGui")
+for _,n in ipairs({"SeirusHub","SeirusHubKey"}) do
+    local o=PGui:FindFirstChild(n); if o then o:Destroy() end end
+
+local C={
+    bg=Color3.fromRGB(9,9,13),    bg2=Color3.fromRGB(6,6,9),
+    bg3=Color3.fromRGB(13,13,19), sidebar=Color3.fromRGB(6,6,9),
+    border=Color3.fromRGB(22,22,32), border2=Color3.fromRGB(30,30,46),
+    text=Color3.fromRGB(192,194,222), textDim=Color3.fromRGB(68,70,105),
+    textSub=Color3.fromRGB(118,120,158),
+    white=Color3.fromRGB(255,255,255),
+    onTrack=Color3.fromRGB(255,255,255), onThumb=Color3.fromRGB(16,17,28),
+    offTrack=Color3.fromRGB(20,21,34), offThumb=Color3.fromRGB(72,75,100),
+    safe=Color3.fromRGB(45,165,90), warn=Color3.fromRGB(200,140,40),
+    iconCol=Color3.fromRGB(78,81,116), searchBG=Color3.fromRGB(12,12,18),
+}
+local EQ=TweenInfo.new(0.15,Enum.EasingStyle.Quad)
+local function Tw(o,p) TweenSvc:Create(o,EQ,p):Play() end
+local function Lbl(p,txt,sz,col,bold,xa)
+    local l=Instance.new("TextLabel",p); l.BackgroundTransparency=1
+    l.Text=txt; l.TextColor3=col or C.text; l.TextSize=sz or 13
+    l.Font=bold and Enum.Font.GothamBold or Enum.Font.Gotham
+    l.TextXAlignment=xa or Enum.TextXAlignment.Left; return l end
+
+-- KEY GUI
+local _keyOK=false
+local _KEY="seirusxyz"; local _DISC="https://discord.gg/cTSGSdzEEM"
+local function BuildKey()
+    local pg=LP:WaitForChild("PlayerGui")
+    local old=pg:FindFirstChild("SeirusHubKey"); if old then old:Destroy() end
+    local sg=Instance.new("ScreenGui",pg)
+    sg.Name="SeirusHubKey"; sg.ResetOnSpawn=false
+    sg.ZIndexBehavior=Enum.ZIndexBehavior.Global; sg.DisplayOrder=998; sg.IgnoreGuiInset=true
+    local bg=Instance.new("Frame",sg); bg.Size=UDim2.new(1,0,1,0)
+    bg.BackgroundColor3=Color3.fromRGB(5,5,8); bg.BorderSizePixel=0
+    local card=Instance.new("Frame",sg); card.Size=UDim2.new(0,360,0,230)
+    card.AnchorPoint=Vector2.new(0.5,0.5); card.Position=UDim2.new(0.5,0,0.65,0)
+    card.BackgroundColor3=Color3.fromRGB(10,10,16); card.BorderSizePixel=0
+    Instance.new("UICorner",card).CornerRadius=UDim.new(0,12)
+    Instance.new("UIStroke",card).Color=Color3.fromRGB(26,26,40)
+    local tb=Instance.new("Frame",card); tb.Size=UDim2.new(1,0,0,2)
+    tb.BackgroundColor3=Color3.fromRGB(80,84,200); tb.BorderSizePixel=0
+    Instance.new("UICorner",tb).CornerRadius=UDim.new(0,12)
+    local sB=Instance.new("Frame",card); sB.Size=UDim2.new(0,38,0,38); sB.Position=UDim2.new(0,16,0,14)
+    sB.BackgroundColor3=Color3.fromRGB(18,18,30); sB.BorderSizePixel=0
+    Instance.new("UICorner",sB).CornerRadius=UDim.new(0,8)
+    Instance.new("UIStroke",sB).Color=Color3.fromRGB(45,45,70)
+    local sLbl=Instance.new("TextLabel",sB); sLbl.Size=UDim2.new(1,0,1,0)
+    sLbl.BackgroundTransparency=1; sLbl.Text="S"; sLbl.TextColor3=Color3.fromRGB(140,145,230)
+    sLbl.TextSize=20; sLbl.Font=Enum.Font.GothamBlack; sLbl.TextXAlignment=Enum.TextXAlignment.Center
+    local tit=Lbl(card,"Seirus Hub",16,C.text,true); tit.Size=UDim2.new(1,-70,0,20); tit.Position=UDim2.new(0,62,0,16)
+    local sub=Lbl(card,"Enter your access key",10,C.textDim); sub.Size=UDim2.new(1,-70,0,14); sub.Position=UDim2.new(0,62,0,36)
+    local sep=Instance.new("Frame",card); sep.Size=UDim2.new(1,-32,0,1); sep.Position=UDim2.new(0,16,0,64)
+    sep.BackgroundColor3=Color3.fromRGB(18,18,28); sep.BorderSizePixel=0
+    local kLbl=Lbl(card,"KEY",9,Color3.fromRGB(45,45,65),true); kLbl.Size=UDim2.new(1,-32,0,12); kLbl.Position=UDim2.new(0,16,0,74)
+    local iBG=Instance.new("Frame",card); iBG.Size=UDim2.new(1,-32,0,38); iBG.Position=UDim2.new(0,16,0,88)
+    iBG.BackgroundColor3=Color3.fromRGB(6,6,10); iBG.BorderSizePixel=0
+    Instance.new("UICorner",iBG).CornerRadius=UDim.new(0,8)
+    local iSk=Instance.new("UIStroke",iBG); iSk.Color=Color3.fromRGB(22,22,36); iSk.Thickness=1
+    local box=Instance.new("TextBox",iBG); box.Size=UDim2.new(1,-16,1,0); box.Position=UDim2.new(0,8,0,0)
+    box.BackgroundTransparency=1; box.PlaceholderText="Enter key..."
+    box.PlaceholderColor3=Color3.fromRGB(38,38,56); box.TextColor3=C.text
+    box.TextSize=13; box.Font=Enum.Font.Gotham; box.Text=""; box.ClearTextOnFocus=false
+    local status=Lbl(card,"",10,Color3.fromRGB(200,55,55))
+    status.Size=UDim2.new(1,-32,0,12); status.Position=UDim2.new(0,16,0,130)
+    local gBtn=Instance.new("TextButton",card); gBtn.Size=UDim2.new(0,130,0,34); gBtn.Position=UDim2.new(0,16,0,144)
+    gBtn.BackgroundColor3=Color3.fromRGB(14,14,22); gBtn.BorderSizePixel=0; gBtn.Text="Get Key"
+    gBtn.TextColor3=Color3.fromRGB(88,92,180); gBtn.TextSize=12; gBtn.Font=Enum.Font.GothamBold; gBtn.AutoButtonColor=false
+    Instance.new("UICorner",gBtn).CornerRadius=UDim.new(0,8); Instance.new("UIStroke",gBtn).Color=Color3.fromRGB(35,35,60)
+    gBtn.MouseButton1Click:Connect(function()
+        pcall(function() setclipboard(_DISC) end)
+        status.Text="Discord copied!"; status.TextColor3=Color3.fromRGB(45,165,90)
+        task.delay(2,function() if status.Parent then status.Text="" end end)
+    end)
+    local uBtn=Instance.new("TextButton",card); uBtn.Size=UDim2.new(1,-162,0,34); uBtn.Position=UDim2.new(0,154,0,144)
+    uBtn.BackgroundColor3=Color3.fromRGB(30,32,72); uBtn.BorderSizePixel=0; uBtn.Text="Unlock"
+    uBtn.TextColor3=Color3.fromRGB(160,165,240); uBtn.TextSize=13; uBtn.Font=Enum.Font.GothamBold; uBtn.AutoButtonColor=false
+    Instance.new("UICorner",uBtn).CornerRadius=UDim.new(0,8); Instance.new("UIStroke",uBtn).Color=Color3.fromRGB(50,54,130)
+    uBtn.MouseEnter:Connect(function() Tw(uBtn,{BackgroundColor3=Color3.fromRGB(40,44,100)}) end)
+    uBtn.MouseLeave:Connect(function() Tw(uBtn,{BackgroundColor3=Color3.fromRGB(30,32,72)}) end)
+    local ver=Lbl(card,"seirusxyz",9,Color3.fromRGB(22,22,34))
+    ver.Size=UDim2.new(1,-32,0,12); ver.Position=UDim2.new(0,16,0,204); ver.TextXAlignment=Enum.TextXAlignment.Right
+    TweenSvc:Create(card,TweenInfo.new(0.5,Enum.EasingStyle.Quint,Enum.EasingDirection.Out),
+        {Position=UDim2.new(0.5,0,0.5,0)}):Play()
+    local function tryKey()
+        local entered=box.Text:gsub("%s","")
+        if entered==_KEY then
+            status.Text="Access granted."; status.TextColor3=Color3.fromRGB(45,185,80)
+            Tw(uBtn,{BackgroundColor3=Color3.fromRGB(20,80,45)})
+            task.delay(0.5,function()
+                TweenSvc:Create(bg,TweenInfo.new(0.35),{BackgroundTransparency=1}):Play()
+                TweenSvc:Create(card,TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.In),
+                    {Position=UDim2.new(0.5,0,0.35,0),BackgroundTransparency=1}):Play()
+                task.wait(0.35); pcall(function() sg:Destroy() end); task.wait(0.05); _keyOK=true end)
+        else
+            status.Text="Incorrect key."; status.TextColor3=Color3.fromRGB(200,55,55)
+            TweenSvc:Create(iSk,TweenInfo.new(0.08),{Color=Color3.fromRGB(150,40,40)}):Play()
+            task.delay(1.2,function() if iSk.Parent then TweenSvc:Create(iSk,TweenInfo.new(0.3),{Color=Color3.fromRGB(22,22,36)}):Play() end end)
+            local op=card.Position
+            task.spawn(function()
+                for _,x in ipairs({7,-7,5,-5,2,-2,0}) do
+                    if not card.Parent then break end
+                    TweenSvc:Create(card,TweenInfo.new(0.04),{Position=op+UDim2.new(0,x,0,0)}):Play()
+                    task.wait(0.045) end end) end end
+    uBtn.MouseButton1Click:Connect(tryKey)
+    box.FocusLost:Connect(function(enter) if enter then tryKey() end end)
+end
+task.spawn(BuildKey)
+local _kw=0
+repeat task.wait(0.1); _kw=_kw+1; if _kw>1200 then _keyOK=true end until _keyOK
+
+-- ANA GUI
+local SG=Instance.new("ScreenGui",PGui)
+SG.Name="SeirusHub"; SG.ResetOnSpawn=false
+SG.ZIndexBehavior=Enum.ZIndexBehavior.Global; SG.DisplayOrder=50; SG.IgnoreGuiInset=true
+
+local Main=Instance.new("Frame",SG)
+Main.Size=UDim2.new(0,0,0,0); Main.Position=UDim2.new(0.5,-300,0.5,-230)
+Main.BackgroundColor3=C.bg; Main.BorderSizePixel=0; Main.Active=true; Main.Draggable=true
+Instance.new("UICorner",Main).CornerRadius=UDim.new(0,8)
+local mStr=Instance.new("UIStroke",Main); mStr.Color=C.border; mStr.Thickness=1.2
+
+-- Titlebar
+local TBar=Instance.new("Frame",Main); TBar.Size=UDim2.new(1,0,0,42)
+TBar.BackgroundColor3=C.bg2; TBar.BorderSizePixel=0
+Instance.new("UICorner",TBar).CornerRadius=UDim.new(0,8)
+local tbFix=Instance.new("Frame",TBar); tbFix.Size=UDim2.new(1,0,0,6); tbFix.Position=UDim2.new(0,0,1,-6)
+tbFix.BackgroundColor3=C.bg2; tbFix.BorderSizePixel=0
+local tAcc=Instance.new("Frame",TBar); tAcc.Size=UDim2.new(0,3,0,22); tAcc.Position=UDim2.new(0,14,0.5,-11)
+tAcc.BackgroundColor3=C.white; tAcc.BorderSizePixel=0; Instance.new("UICorner",tAcc).CornerRadius=UDim.new(0,2)
+local tTitle=Lbl(TBar,"Seirus Hub",15,C.text,true); tTitle.Size=UDim2.new(1,-120,1,0); tTitle.Position=UDim2.new(0,26,0,0)
+local tSub=Lbl(TBar,"Boxing Beta",11,C.textDim,false,Enum.TextXAlignment.Right)
+tSub.Size=UDim2.new(0,110,1,0); tSub.Position=UDim2.new(1,-118,0,0)
+
+-- Arama
+local SrchBar=Instance.new("Frame",Main)
+SrchBar.Size=UDim2.new(1,0,0,42); SrchBar.Position=UDim2.new(0,0,0,42)
+SrchBar.BackgroundColor3=C.bg2; SrchBar.BorderSizePixel=0
+Instance.new("UICorner",SrchBar).CornerRadius=UDim.new(0,8)
+local sbFix=Instance.new("Frame",SrchBar); sbFix.Size=UDim2.new(1,0,0,6); sbFix.Position=UDim2.new(0,0,1,-6)
+sbFix.BackgroundColor3=C.bg2; sbFix.BorderSizePixel=0
+local siBG=Instance.new("Frame",SrchBar); siBG.Size=UDim2.new(1,-32,0,26); siBG.Position=UDim2.new(0,16,0.5,-13)
+siBG.BackgroundColor3=C.searchBG; siBG.BorderSizePixel=0
+Instance.new("UICorner",siBG).CornerRadius=UDim.new(0,7); Instance.new("UIStroke",siBG).Color=C.border2
+-- Büyüteç (frame ile — düzeltildi)
+local mH=Instance.new("Frame",siBG); mH.Size=UDim2.new(0,16,1,0); mH.Position=UDim2.new(0,4,0,0)
+mH.BackgroundTransparency=1; mH.BorderSizePixel=0
+local mC=Instance.new("Frame",mH); mC.Size=UDim2.new(0,9,0,9); mC.AnchorPoint=Vector2.new(0.5,0.5)
+mC.Position=UDim2.new(0.5,0,0.45,0); mC.BackgroundTransparency=1; mC.BorderSizePixel=0
+Instance.new("UICorner",mC).CornerRadius=UDim.new(1,0)
+local mCS=Instance.new("UIStroke",mC); mCS.Color=C.iconCol; mCS.Thickness=1.8
+-- Sap: daireden dışarı çıkmayan kısa çizgi
+local mS=Instance.new("Frame",mH); mS.Size=UDim2.new(0,4,0,2)
+mS.AnchorPoint=Vector2.new(0,0.5); mS.Position=UDim2.new(0.5,2,0.6,2)
+mS.BackgroundColor3=C.iconCol; mS.BorderSizePixel=0; mS.Rotation=45
+Instance.new("UICorner",mS).CornerRadius=UDim.new(0,1)
+local searchBox=Instance.new("TextBox",siBG)
+searchBox.Size=UDim2.new(1,-24,1,0); searchBox.Position=UDim2.new(0,24,0,0)
+searchBox.BackgroundTransparency=1; searchBox.Text=""; searchBox.PlaceholderText="Search features..."
+searchBox.PlaceholderColor3=Color3.fromRGB(42,44,68); searchBox.TextColor3=C.text
+searchBox.TextSize=12; searchBox.Font=Enum.Font.Gotham
+searchBox.TextXAlignment=Enum.TextXAlignment.Left; searchBox.ClearTextOnFocus=false
+
+-- İkon çizici
+local function DrawIcon(parent,ico,cx,cy,sz)
+    sz=sz or 16
+    local c2=Instance.new("Frame",parent); c2.Size=UDim2.new(0,sz,0,sz)
+    c2.Position=UDim2.new(0,cx,0,cy); c2.BackgroundTransparency=1; c2.BorderSizePixel=0
+    local col=C.iconCol
+    local function B(x,y,w,h,r2)
+        local f=Instance.new("Frame",c2); f.Size=UDim2.new(0,w,0,h); f.Position=UDim2.new(0,x,0,y)
+        f.BackgroundColor3=col; f.BorderSizePixel=0
+        if r2 then Instance.new("UICorner",f).CornerRadius=UDim.new(0,r2) end end
+    if ico=="dashboard" then local s=math.floor(sz/2)-1; for r=0,1 do for c=0,1 do B(c*(s+3),r*(s+3),s,s,2) end end
+    elseif ico=="main" then for i=0,2 do B(0,3+i*5,sz,2,1) end
+    elseif ico=="settings" then
+        local oR=sz*0.43; local tW=math.floor(sz*0.18); local tH=math.floor(sz*0.22); local hR=sz*0.25
+        for i=0,7 do local ang=math.rad(i*45)
+            local tf=Instance.new("Frame",c2); tf.Size=UDim2.new(0,tW,0,tH)
+            tf.Position=UDim2.new(0,sz/2+math.cos(ang)*oR-tW/2,0,sz/2+math.sin(ang)*oR-tH/2)
+            tf.BackgroundColor3=col; tf.BorderSizePixel=0; tf.Rotation=math.deg(ang)+90
+            Instance.new("UICorner",tf).CornerRadius=UDim.new(0,2) end
+        local hub=Instance.new("Frame",c2); hub.Size=UDim2.new(0,hR*2,0,hR*2)
+        hub.Position=UDim2.new(0,sz/2-hR,0,sz/2-hR); hub.BackgroundColor3=C.bg2; hub.BorderSizePixel=0
+        Instance.new("UICorner",hub).CornerRadius=UDim.new(1,0)
+        local hs=Instance.new("UIStroke",hub); hs.Color=col; hs.Thickness=2
+    elseif ico=="info" then
+        local ring=Instance.new("Frame",c2); ring.Size=UDim2.new(1,0,1,0)
+        ring.BackgroundTransparency=1; ring.BorderSizePixel=0
+        Instance.new("UICorner",ring).CornerRadius=UDim.new(1,0); Instance.new("UIStroke",ring).Color=col
+        B(sz*.5-1,sz*.18,2,2,1); B(sz*.5-1,sz*.38,2,sz*.38,1)
+    end
+end
+
+-- Sidebar
+local SB=Instance.new("Frame",Main); SB.Size=UDim2.new(0,128,1,-84); SB.Position=UDim2.new(0,0,0,84)
+SB.BackgroundColor3=C.sidebar; SB.BorderSizePixel=0
+local AvA=Instance.new("Frame",SB); AvA.Size=UDim2.new(1,0,0,88); AvA.Position=UDim2.new(0,0,1,-88)
+AvA.BackgroundColor3=C.bg2; AvA.BorderSizePixel=0
+local avS=Instance.new("Frame",AvA); avS.Size=UDim2.new(1,0,0,1); avS.BackgroundColor3=C.border; avS.BorderSizePixel=0
+local AvR=Instance.new("Frame",AvA); AvR.Size=UDim2.new(0,50,0,50); AvR.Position=UDim2.new(0.5,-25,0,8)
+AvR.BackgroundColor3=Color3.fromRGB(0,0,0); AvR.BorderSizePixel=0
+Instance.new("UICorner",AvR).CornerRadius=UDim.new(1,0)
+local avRS=Instance.new("UIStroke",AvR); avRS.Color=Color3.fromRGB(150,153,192); avRS.Thickness=2
+local AvBG=Instance.new("Frame",AvR); AvBG.Size=UDim2.new(1,-6,1,-6); AvBG.Position=UDim2.new(0,3,0,3)
+AvBG.BackgroundColor3=Color3.fromRGB(10,10,16); AvBG.BorderSizePixel=0
+Instance.new("UICorner",AvBG).CornerRadius=UDim.new(1,0)
+local AvImg=Instance.new("ImageLabel",AvBG); AvImg.Size=UDim2.new(1,0,1,0); AvImg.BackgroundTransparency=1
+AvImg.ScaleType=Enum.ScaleType.Crop; Instance.new("UICorner",AvImg).CornerRadius=UDim.new(1,0)
+task.spawn(function()
+    local ok,url=pcall(function()
+        return Players:GetUserThumbnailAsync(LP.UserId,Enum.ThumbnailType.HeadShot,Enum.ThumbnailSize.Size100x100)
+    end); if ok and url then AvImg.Image=url end end)
+local ULbl=Lbl(AvA,LP.Name,10,C.textSub,false,Enum.TextXAlignment.Center)
+ULbl.Size=UDim2.new(1,-12,0,16); ULbl.Position=UDim2.new(0,6,0,62); ULbl.TextTruncate=Enum.TextTruncate.AtEnd
+
+-- Tablar
+local TABS={{id="Dashboard",label="Dashboard",icon="dashboard"},{id="Main",label="Main",icon="main"},
+            {id="Settings",label="Settings",icon="settings"},{id="Info",label="Info",icon="info"}}
+local _act="Main"; local _tBtns={}; local _tPages={}; local _fRows={}
+local tList=Instance.new("Frame",SB); tList.Size=UDim2.new(1,0,1,-88); tList.BackgroundTransparency=1
+local tLay=Instance.new("UIListLayout",tList); tLay.SortOrder=Enum.SortOrder.LayoutOrder
+for i,tab in ipairs(TABS) do
+    local btn=Instance.new("TextButton",tList); btn.Size=UDim2.new(1,0,0,42)
+    btn.BackgroundColor3=tab.id==_act and C.bg3 or C.sidebar
+    btn.BorderSizePixel=0; btn.Text=""; btn.AutoButtonColor=false; btn.LayoutOrder=i
+    local aLine=Instance.new("Frame",btn); aLine.Size=UDim2.new(0,3,0,22); aLine.Position=UDim2.new(0,0,0.5,-11)
+    aLine.BackgroundColor3=C.white; aLine.BorderSizePixel=0; aLine.Visible=(tab.id==_act)
+    Instance.new("UICorner",aLine).CornerRadius=UDim.new(0,2)
+    DrawIcon(btn,tab.icon,16,13,16)
+    local lbl=Lbl(btn,tab.label,13,tab.id==_act and C.text or C.textDim,tab.id==_act)
+    lbl.Size=UDim2.new(1,-44,1,0); lbl.Position=UDim2.new(0,42,0,0)
+    _tBtns[tab.id]={btn=btn,line=aLine,lbl=lbl}
+    btn.MouseButton1Click:Connect(function()
+        _act=tab.id
+        for id,t in pairs(_tBtns) do local isA=(id==_act)
+            Tw(t.btn,{BackgroundColor3=isA and C.bg3 or C.sidebar}); t.line.Visible=isA
+            t.lbl.TextColor3=isA and C.text or C.textDim
+            t.lbl.Font=isA and Enum.Font.GothamBold or Enum.Font.Gotham end
+        for id2,pg in pairs(_tPages) do pg.Visible=(id2==_act) end end)
+    btn.MouseEnter:Connect(function() if _act~=tab.id then Tw(btn,{BackgroundColor3=C.bg3}) end end)
+    btn.MouseLeave:Connect(function() if _act~=tab.id then Tw(btn,{BackgroundColor3=C.sidebar}) end end)
+end
+
+-- İçerik
+local CA=Instance.new("Frame",Main); CA.Size=UDim2.new(1,-128,1,-84); CA.Position=UDim2.new(0,128,0,84)
+CA.BackgroundColor3=C.bg; CA.BorderSizePixel=0
+
+local function MkPage(id)
+    local page=Instance.new("ScrollingFrame",CA); page.Size=UDim2.new(1,0,1,0)
+    page.BackgroundTransparency=1; page.ScrollBarThickness=4; page.ScrollBarImageColor3=Color3.fromRGB(35,37,58)
+    page.AutomaticCanvasSize=Enum.AutomaticSize.Y; page.CanvasSize=UDim2.new(0,0,0,0)
+    page.Visible=(id==_act); _tPages[id]=page
+    local lay=Instance.new("UIListLayout",page); lay.Padding=UDim.new(0,2)
+    local pad=Instance.new("UIPadding",page)
+    pad.PaddingTop=UDim.new(0,10); pad.PaddingLeft=UDim.new(0,16); pad.PaddingRight=UDim.new(0,16)
+    return page
+end
+
+-- Toggle (ZIndex=Global → %100 çalışır)
+local function MkToggle(parent,label,badge,initVal,order,cb)
+    local row=Instance.new("Frame",parent); row.Size=UDim2.new(1,0,0,50)
+    row.BackgroundTransparency=1; row.LayoutOrder=order; row.Name=label
+    if badge=="safe" or badge=="warn" then
+        local b=Instance.new("Frame",row); b.Size=UDim2.new(0,2,0,20); b.Position=UDim2.new(0,0,0.5,-10)
+        b.BackgroundColor3=badge=="safe" and C.safe or C.warn; b.BorderSizePixel=0
+        Instance.new("UICorner",b).CornerRadius=UDim.new(0,1) end
+    local mL=Lbl(row,label,14,C.text); mL.Size=UDim2.new(1,-68,1,0); mL.Position=UDim2.new(0,8,0,0)
+    local track=Instance.new("Frame",row); track.Size=UDim2.new(0,46,0,24)
+    track.AnchorPoint=Vector2.new(1,0.5); track.Position=UDim2.new(1,-10,0.5,0)
+    track.BackgroundColor3=initVal and C.onTrack or C.offTrack; track.BorderSizePixel=0
+    Instance.new("UICorner",track).CornerRadius=UDim.new(1,0); Instance.new("UIStroke",track).Color=C.border2
+    local thumb=Instance.new("Frame",track); thumb.Size=UDim2.new(0,18,0,18); thumb.AnchorPoint=Vector2.new(0.5,0.5)
+    thumb.Position=initVal and UDim2.new(1,-13,0.5,0) or UDim2.new(0,13,0.5,0)
+    thumb.BackgroundColor3=initVal and C.onThumb or C.offThumb; thumb.BorderSizePixel=0
+    Instance.new("UICorner",thumb).CornerRadius=UDim.new(1,0)
+    local glow=Instance.new("Frame",row); glow.Size=UDim2.new(1,0,1,0)
+    glow.BackgroundColor3=Color3.fromRGB(215,218,255); glow.BackgroundTransparency=1; glow.BorderSizePixel=0
+    Instance.new("UICorner",glow).CornerRadius=UDim.new(0,6)
+    local sep=Instance.new("Frame",row); sep.Size=UDim2.new(1,0,0,1); sep.Position=UDim2.new(0,0,1,-1)
+    sep.BackgroundColor3=C.border; sep.BorderSizePixel=0
+    local btn=Instance.new("TextButton",row); btn.Size=UDim2.new(1,0,1,0); btn.BackgroundTransparency=1
+    btn.Text=""; btn.ZIndex=200; btn.AutoButtonColor=false; btn.Selectable=false
+    local val=initVal or false
+    btn.MouseButton1Click:Connect(function()
+        val=not val
+        Tw(track,{BackgroundColor3=val and C.onTrack or C.offTrack})
+        TweenSvc:Create(thumb,TweenInfo.new(0.2,Enum.EasingStyle.Back),{
+            Position=val and UDim2.new(1,-13,0.5,0) or UDim2.new(0,13,0.5,0),
+            BackgroundColor3=val and C.onThumb or C.offThumb}):Play()
+        if val then
+            TweenSvc:Create(glow,TweenInfo.new(0.07),{BackgroundTransparency=0.8}):Play()
+            task.delay(0.07,function() TweenSvc:Create(glow,TweenInfo.new(0.25),{BackgroundTransparency=1}):Play() end) end
+        Notify("Seirus Hub",(val and "ON" or "OFF")..": "..label,val)
+        task.spawn(function() if cb then cb(val) end end) end)
+    table.insert(_fRows,{row=row,name=label:lower()})
+    return row
+end
+
+local function MkSlider(parent,label,mn,mx,def,suf,order,cb)
+    local row=Instance.new("Frame",parent); row.Size=UDim2.new(1,0,0,54)
+    row.BackgroundTransparency=1; row.LayoutOrder=order; row.Name=label
+    local lbl=Lbl(row,label,13,C.text); lbl.Size=UDim2.new(0,115,1,0)
+    local track=Instance.new("Frame",row); track.Size=UDim2.new(0,200,0,4); track.Position=UDim2.new(0,122,0.5,-2)
+    track.BackgroundColor3=C.border2; track.BorderSizePixel=0; Instance.new("UICorner",track).CornerRadius=UDim.new(1,0)
+    local p0=(def-mn)/(mx-mn)
+    local fill=Instance.new("Frame",track); fill.Size=UDim2.new(p0,0,1,0); fill.BackgroundColor3=C.white
+    fill.BorderSizePixel=0; Instance.new("UICorner",fill).CornerRadius=UDim.new(1,0)
+    local thmb=Instance.new("Frame",track); thmb.Size=UDim2.new(0,14,0,14); thmb.AnchorPoint=Vector2.new(0.5,0.5)
+    thmb.Position=UDim2.new(p0,0,0.5,0); thmb.BackgroundColor3=C.white; thmb.BorderSizePixel=0; thmb.ZIndex=10
+    Instance.new("UICorner",thmb).CornerRadius=UDim.new(1,0)
+    local valLbl=Lbl(row,tostring(def)..(suf or ""),12,C.textSub,false,Enum.TextXAlignment.Right)
+    valLbl.Size=UDim2.new(0,44,1,0); valLbl.Position=UDim2.new(1,-44,0,0)
+    local sep=Instance.new("Frame",row); sep.Size=UDim2.new(1,0,0,1); sep.Position=UDim2.new(0,0,1,-1)
+    sep.BackgroundColor3=C.border; sep.BorderSizePixel=0
+    local val=def; local drag=false
+    local dBtn=Instance.new("TextButton",row); dBtn.Size=UDim2.new(0,240,0,28); dBtn.Position=UDim2.new(0,116,0.5,-14)
+    dBtn.BackgroundTransparency=1; dBtn.Text=""; dBtn.ZIndex=20
+    dBtn.MouseButton1Down:Connect(function() drag=true; Main.Draggable=false end)
+    UIS.InputEnded:Connect(function(inp)
+        if inp.UserInputType==Enum.UserInputType.MouseButton1 then drag=false; Main.Draggable=true end end)
+    RunService.RenderStepped:Connect(function()
+        if not drag then return end
+        local m=UIS:GetMouseLocation(); local tp=track.AbsolutePosition; local tw=track.AbsoluteSize.X
+        local rel=math.clamp((m.X-tp.X)/tw,0,1)
+        local rng=mx-mn; local step=rng>=1 and 0.1 or 0.01
+        val=math.clamp(math.floor((mn+rel*rng)/step+0.5)*step,mn,mx)
+        local vr=(val-mn)/(mx-mn)
+        fill.Size=UDim2.new(vr,0,1,0); thmb.Position=UDim2.new(vr,0,0.5,0)
+        valLbl.Text=string.format(step<1 and "%.1f" or "%g",val)..(suf or "")
+        if cb then cb(val) end end)
+    table.insert(_fRows,{row=row,name=label:lower()})
+    return row
+end
+
+local function MkCard(parent,title,desc,order)
+    local card=Instance.new("Frame",parent); card.Size=UDim2.new(1,0,0,90); card.BackgroundColor3=C.bg3
+    card.BorderSizePixel=0; card.LayoutOrder=order; Instance.new("UICorner",card).CornerRadius=UDim.new(0,6)
+    Instance.new("UIStroke",card).Color=C.border2
+    local t=Lbl(card,title,13,C.text,true); t.Size=UDim2.new(1,-20,0,22); t.Position=UDim2.new(0,12,0,8)
+    local d=Lbl(card,desc,11,C.textSub); d.Size=UDim2.new(1,-20,0,56); d.Position=UDim2.new(0,12,0,32)
+    d.TextWrapped=true
+end
+
+-- ── SAYFALAR ──────────────────────────────
+local dPage=MkPage("Dashboard")
+local mPage=MkPage("Main")
+local sPage=MkPage("Settings")
+local iPage=MkPage("Info")
+
+-- DASHBOARD
+do
+    local avSec=Instance.new("Frame",dPage); avSec.Size=UDim2.new(1,0,0,155)
+    avSec.BackgroundColor3=C.bg3; avSec.BorderSizePixel=0; avSec.LayoutOrder=0
+    Instance.new("UICorner",avSec).CornerRadius=UDim.new(0,8); Instance.new("UIStroke",avSec).Color=C.border2
+    local avCon=Instance.new("Frame",avSec); avCon.Size=UDim2.new(0,110,0,110); avCon.Position=UDim2.new(0,14,0,22)
+    avCon.BackgroundColor3=Color3.fromRGB(12,12,18); avCon.BorderSizePixel=0
+    Instance.new("UICorner",avCon).CornerRadius=UDim.new(1,0)
+    Instance.new("UIStroke",avCon).Color=Color3.fromRGB(38,40,65)
+    local bigAv=Instance.new("ImageLabel",avCon); bigAv.Size=UDim2.new(1,-4,1,-4); bigAv.Position=UDim2.new(0,2,0,2)
+    bigAv.BackgroundTransparency=1; bigAv.ScaleType=Enum.ScaleType.Crop
+    Instance.new("UICorner",bigAv).CornerRadius=UDim.new(1,0)
+    task.spawn(function()
+        local ok,url=pcall(function()
+            return Players:GetUserThumbnailAsync(LP.UserId,Enum.ThumbnailType.AvatarBust,Enum.ThumbnailSize.Size420x420)
+        end)
+        if ok and url then bigAv.Image=url
+        else local ok2,url2=pcall(function()
+            return Players:GetUserThumbnailAsync(LP.UserId,Enum.ThumbnailType.HeadShot,Enum.ThumbnailSize.Size420x420)
+        end); if ok2 and url2 then bigAv.Image=url2 end end end)
+    local infoP=Instance.new("Frame",avSec); infoP.Size=UDim2.new(1,-140,0,110); infoP.Position=UDim2.new(0,136,0,22)
+    infoP.BackgroundTransparency=1; infoP.BorderSizePixel=0
+    local function DR(lb,vl,y)
+        local l=Lbl(infoP,lb,10,C.textDim); l.Size=UDim2.new(0,78,0,16); l.Position=UDim2.new(0,0,0,y)
+        local v=Lbl(infoP,vl,10,C.text,true,Enum.TextXAlignment.Right)
+        v.Size=UDim2.new(1,-80,0,16); v.Position=UDim2.new(0,80,0,y); v.TextTruncate=Enum.TextTruncate.AtEnd
+        return v end
+    local fpsV=DR("FPS","--",0); local pingV=DR("Ping","--",18)
+    task.spawn(function()
+        local lt=tick(); local fr=0
+        RunService.RenderStepped:Connect(function()
+            fr=fr+1; local n=tick()
+            if n-lt>=1 then if fpsV.Parent then fpsV.Text=tostring(fr) end; fr=0; lt=n end end) end)
+    task.spawn(function()
+        while true do task.wait(2); local ms=math.floor(LP:GetNetworkPing()*1000)
+            if pingV.Parent then pingV.Text=ms.."ms" end end end)
+    DR("Player",LP.Name,36)
+    local ag=LP.AccountAge; DR("Age",math.floor(ag/365).."y "..math.floor((ag%365)/30).."m",54)
+    DR("Script","Seirus Hub v4",72); DR("PlaceID",tostring(game.PlaceId),90)
+    local bbSec=Instance.new("Frame",dPage); bbSec.Size=UDim2.new(1,0,0,95)
+    bbSec.BackgroundColor3=Color3.fromRGB(0,0,0); bbSec.BorderSizePixel=0; bbSec.LayoutOrder=1
+    Instance.new("UICorner",bbSec).CornerRadius=UDim.new(0,8); Instance.new("UIStroke",bbSec).Color=C.border
+    local bbImg=Instance.new("ImageLabel",bbSec); bbImg.Size=UDim2.new(1,-4,1,-4); bbImg.Position=UDim2.new(0,2,0,2)
+    bbImg.BackgroundTransparency=1; bbImg.ScaleType=Enum.ScaleType.Crop
+    bbImg.Image="rbxthumb://type=GameThumbnail&id=6804602922&w=768&h=432"
+    Instance.new("UICorner",bbImg).CornerRadius=UDim.new(0,6)
+    local bbL=Lbl(bbSec,"Boxing Beta!",11,Color3.fromRGB(150,153,195),true,Enum.TextXAlignment.Center)
+    bbL.Size=UDim2.new(1,0,0,16); bbL.Position=UDim2.new(0,0,1,-18)
+    bbL.BackgroundTransparency=0.55; bbL.BackgroundColor3=Color3.fromRGB(0,0,0)
+end
+
+-- MAIN
+local o=0
+MkToggle(mPage,"Max Power",      "warn",false,o,function(v) CFG.MaxPower=v;    if v then ApplyMaxPower() end end); o=o+1
+MkToggle(mPage,"Inf Stamina",    "safe",false,o,function(v) CFG.InfStamina=v;  if v then ApplyStam() end end); o=o+1
+MkToggle(mPage,"Inf Dodge Stam", "safe",false,o,function(v) CFG.InfDodgeStam=v;if v then ApplyStam() end end); o=o+1
+MkToggle(mPage,"Inf HP",         "safe",false,o,function(v) CFG.InfHP=v;       if v then SetupInfHP() end end); o=o+1
+MkToggle(mPage,"Fast Punch",     "warn",false,o,function(v) CFG.FastPunch=v
+    if v then ScanCD(LP); if Char then ScanCD(Char) end end end); o=o+1
+-- Punch Aura + Range slider
+MkToggle(mPage,"Punch Aura","warn",false,o,function(v) CFG.PunchAura=v
+    if v then StartAura() else StopAura() end end); o=o+1
+MkSlider(mPage,"Aura Range",  2,12,6," st",o,function(v) CFG.AuraRange=v  end); o=o+1
+MkSlider(mPage,"Aura Delay",  0.15,1.0,0.25,"s",o,function(v) CFG.AuraDelay=v end); o=o+1
+MkToggle(mPage,"Anti Fling",     "safe",false,o,function(v) CFG.AntiFling=v end); o=o+1
+MkToggle(mPage,"Infinite Jump",  nil,   false,o,function(v) CFG.InfJump=v end); o=o+1
+MkToggle(mPage,"Fly",            nil,   false,o,function(v) CFG.Fly=v; if v then StartFly() else StopFly() end end); o=o+1
+MkSlider(mPage,"Fly Speed",   20,300,60,"",o,function(v) CFG.FlySpeed=v end); o=o+1
+MkSlider(mPage,"Walk Speed",  16,150,16,"",o,function(v) CFG.WalkSpeed=v; if Hum then Hum.WalkSpeed=v end end); o=o+1
+MkSlider(mPage,"Jump Power",  50,500,50,"",o,function(v) CFG.JumpPower=v; if Hum then Hum.JumpPower=v end end); o=o+1
+
+-- SETTINGS
+local sT=Lbl(sPage,"GUI Settings",16,C.text,true); sT.Size=UDim2.new(1,0,0,28); sT.LayoutOrder=0
+MkSlider(sPage,"Opacity",30,100,100,"%",1,function(v) Main.BackgroundTransparency=1-v/100 end)
+local kT=Lbl(sPage,"Toggle Key: K",13,C.textSub); kT.Size=UDim2.new(1,0,0,22); kT.LayoutOrder=2
+do local row=Instance.new("Frame",sPage); row.Size=UDim2.new(1,0,0,42); row.BackgroundTransparency=1; row.LayoutOrder=3
+    local btn=Instance.new("TextButton",row); btn.Size=UDim2.new(1,0,0,34); btn.Position=UDim2.new(0,0,0,4)
+    btn.BackgroundColor3=Color3.fromRGB(110,26,34); btn.BorderSizePixel=0; btn.Text="Close GUI"
+    btn.TextColor3=Color3.fromRGB(218,188,192); btn.TextSize=13; btn.Font=Enum.Font.GothamBold; btn.AutoButtonColor=false
+    Instance.new("UICorner",btn).CornerRadius=UDim.new(0,6)
+    btn.MouseButton1Click:Connect(function() Main.Visible=false end)
+    btn.MouseEnter:Connect(function() Tw(btn,{BackgroundColor3=Color3.fromRGB(155,34,45)}) end)
+    btn.MouseLeave:Connect(function() Tw(btn,{BackgroundColor3=Color3.fromRGB(110,26,34)}) end) end
+
+-- INFO
+local iT=Lbl(iPage,"Feature Info",16,C.text,true); iT.Size=UDim2.new(1,0,0,26); iT.LayoutOrder=0
+MkCard(iPage,"Max Power",     "Her yumruk max 9 hasar verir. punchVariant=3 sabitlenir. Attribute hook ile çalışır, server'a fazladan data gönderilmez.",1)
+MkCard(iPage,"Inf Stamina",   "Stamina hiç bitmez. Changed hook anında geri doldurur. 1s döngü ile attribute set. Blur/efekt temizlenir. WalkSpeed geri yüklenir.",2)
+MkCard(iPage,"Inf Dodge Stam","Dodge staminası ayrı kilitlenir. Sürekli dodge atılabilir. Normal stamina ile karışmaz.",3)
+MkCard(iPage,"Inf HP",        "Heartbeat'te Health=MaxHealth. Regen script devre dışı. Can azalmaz.",4)
+MkCard(iPage,"Fast Punch",    "CD BoolValue/NumberValue her 60ms sıfırlanır. Animasyon 4x. Cooldown yok.",5)
+MkCard(iPage,"Punch Aura",    "Damage3Event(player,true,dir,false) ile vurur. Mesafe ve gecikme ayarlanabilir. Rate limit: 4/sn max. Ban-safe.",6)
+MkCard(iPage,"Anti Fling",    "Ragdoll/FallingDown state'ini GettingUp'a çevirir. Fırlatılma engellenir.",7)
+MkCard(iPage,"Fly",           "PC: WASD+Space/Ctrl. Mobil: UP/DOWN butonları ekranda çıkar. BodyVelocity/BodyGyro.",8)
+
+-- Arama
+searchBox:GetPropertyChangedSignal("Text"):Connect(function()
+    local q=searchBox.Text:lower():gsub("%s+","")
+    for _,f in ipairs(_fRows) do f.row.Visible=(q=="" or f.name:find(q,1,true)~=nil) end end)
+
+UIS.InputBegan:Connect(function(inp,gp)
+    if gp then return end
+    if inp.KeyCode==Enum.KeyCode.K then Main.Visible=not Main.Visible end end)
+
+task.defer(function()
+    TweenSvc:Create(Main,TweenInfo.new(0.42,Enum.EasingStyle.Quint,Enum.EasingDirection.Out),{
+        Size=UDim2.new(0,600,0,460)}):Play()
+    task.wait(0.5)
+    Notify("Seirus Hub","Hazır. K tuşu ile aç/kapat.",true)
+end)
+
+print("[Seirus Hub v4] Loaded")
